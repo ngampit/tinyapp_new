@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ngampit/tinyapp_new/issues"
   },
-  "homepage": "https://github.com/ngampit/tinyapp_new#readme"
+  "homepage": "https://github.com/ngampit/tinyapp_new#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
